@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Learning Journey</title>
+	<style>
+		h1 {
+			color: green;
+			font-size: 28px;
+			font-weight: bold;
+			text-align: center;
+		}
+		p {
+			color: black;
+			font-size: 16px;
+			text-align: justify;
+		}
+	</style>
+</head>
+<body>
+	<h1>Topics I enjoyed the most</h1>
+	<p>during my learning journey , i enjoyed learing about hardware a lot , i have a large interest in computer hardware so being able to study it made me very happy</p>
+
+	<h1>Topics I want to learn more about</h1>
+	<p>I am interested in learning more about cybersecurity , as it is a very important field in modern life , i want to learn more about cybersecurity so i can protect my devices well</p>
+
+	<h1>Topics I thought were difficult</h1>
+	<p>I initially found programming difficult , but after training and going to physical sessions , i managed to get a deeper understanding of programming and programming languages </p>
+</body>
+</html>
